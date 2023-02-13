@@ -3,7 +3,7 @@ Assignment Individual
 
 
 
-Instruction: 
+*Instruction*: 
 
 C file
 at least 1 string manipulation
